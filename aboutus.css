@@ -1,0 +1,117 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    /*border: 1px solid;*/
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar ul a {
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 14px;
+    color: black
+}
+
+.navbar ul a:hover {
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 14px;
+    color: #f88d00c9;
+}
+.logo {
+    width: 138px;
+    height: 39px;
+}
+.left{
+   /* border: 1px dotted;*/
+    width: 45%;
+    height: 45pc;
+}
+.right{
+    width: 55%;
+    text-align: center;
+}
+.sec1{
+    display: flex;
+ 
+}
+.one{
+    margin-right: 36pc;
+    color: rgb(53, 147, 179);
+}
+.blue{
+    color: rgb(53, 147, 179) ;
+}
+.sec2{
+ 
+    text-align: inherit;
+    padding-top: 2pc;
+    padding-left: 12pc;
+    font-size: larger;
+}
+main{
+    background-color: #E5E5E5;;
+}
+.left3{
+    width: 45%;
+   /* border: 1px dotted;*/
+    padding-left: 10pc;
+    padding-bottom: 8px;
+}
+.sec3{
+    background-color: white;
+    display: flex;
+    border: 3px dotted purple;
+    border-radius: 3pc;
+}
+.btn{
+    color: aqua;
+    width: 95px;
+    height: 38px;
+    border-radius: 18px;
+}
+.right3{
+    width: 55%;
+    padding-top: 2pc;
+}
+.icons{
+    width: 16pc;
+}
+.sec4{
+    padding-top: 2pc;
+}
+.btn1{
+    background-color: black;
+    color: #E5E5E5;
+    font-size: 2pc;
+    border-radius: 2pc;
+}
+.sec5{
+    background-color: #E8F4FA;;
+    text-align: center;
+    height: 15pc;
+    padding-top: 4pc;
+    font-size: 2pc;
+    padding-bottom: 3pc;
+}
+.footer{
+    text-align: center;
+    /*border: 1px solid blue;*/
+    height: 13pc;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.font2{
+    margin-top: 48px;
+}
+.copy{
+    text-align: center;
+    background-color: silver;
+    height: 3pc;
+    padding-top: 1px;
+}

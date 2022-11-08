@@ -1,0 +1,316 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 83pc;
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar ul a {
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 14px;
+    color: black
+}
+
+.navbar ul a:hover {
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 14px;
+    color: #f88d00c9;
+}
+
+.container {
+/*display: grid;*/
+    position: relative;
+    width: 953px;
+    height: 3530px;
+    background: #FFFFFF;
+}
+
+.logo {
+    width: 138px;
+    height: 39px;
+}
+.one{
+    position: absolute;
+    width: 1341px;
+    height: 516px;
+    left: 0px;
+    top: 60px;
+    background: rgba(16, 144, 203, 0.1);
+}
+.text {
+    margin-left: 141px;
+    font-size: 32px;
+}
+.para1{
+    margin-left: 141px;
+    font-size: small;
+}
+button{
+    width: 193px;
+    height: 51px;
+    background: #1090CB;
+    border-radius: 10px;
+    margin-left:141px ;
+}
+.bill{
+    position: absolute;
+    top: -268px;
+    left: 797px;
+}
+.bplant{
+    position: absolute;
+    left: 43pc;
+    top: 16pc;
+}
+.Cuboid{
+    position: absolute;
+    left: 53pc;
+    top: 3pc;
+}
+.angle{
+    position: absolute;
+    left: 78pc;
+    top: 10pc;
+}
+.vector{
+    /*position: relative;*/
+    display: flex;
+   /* left: 7pc;*/
+    position: relative;
+   /* top: 33pc;*/
+
+}
+.vec{
+    height: 37px;
+    /*position: relative;*/
+   /*top: 1pc;*/
+    border: solid lightgray;
+    background-color: lightgray;
+    border-radius: 1pc;
+    margin-right: 9px;
+    margin-top: 12px;
+}
+.vector2{
+    /*position: relative;*/
+    display: flex;
+    left: 10pc;
+    /*position: relative;*/
+    /*top: 33pc;*/
+  
+}
+.vec2{
+    height: 37px;
+    /*position: relative;
+    top: 1pc;*/
+    border: solid rgb(238, 27, 27);
+    background-color: rgb(245, 12, 12);
+    border-radius: 1pc;
+    margin-right: 9px;
+    margin-top: 12px;
+}
+.two{
+    /*margin-top: -129pc;*/
+    border-bottom: 1px solid;
+    display: flex;
+    height: 4pc;
+    justify-content: space-around;
+    width: 83pc;
+    position: relative;
+    top: 34pc;
+}
+.vector3{
+    /*position: relative;*/
+    display: flex;
+    left: 10pc;
+    /*position: relative;*/
+    /*top: 33pc;*/
+  
+}
+.vec3{
+    height: 37px;
+    /*position: relative;
+    top: 1pc;*/
+    border: solid rgb(206, 102, 102);
+    background-color: rgb(204, 101, 101);
+    border-radius: 1pc;
+    margin-right: 9px;
+    margin-top: 12px;
+}
+.three{
+    width: 83pc;
+    height: 15pc;
+    /*border: solid black;*/
+    position: absolute;
+    top: 66px;
+    text-align: center;
+}
+.four{
+    width: 83pc;
+    height: 32pc;
+    border: dotted #c9aeae;
+    position: absolute;
+    top: 313px;
+    text-align: center;
+    display: flex;
+    border-top-left-radius: 42pc;
+    border-bottom-right-radius: 47pc;
+}
+.para4{
+    margin-top: -59px;
+    font-size: medium;
+}
+.c1{
+    background-color: cornflowerblue;
+    width: 2pc;
+    border-radius: 7px;
+}
+.five{
+    width: 83pc;
+    height: 32pc;
+    border: dotted #c9aeae;
+    position: absolute;
+    top: 828px;
+    text-align: center;
+    display: flex;
+    border-top-right-radius: 374pc;
+    border-bottom-right-radius: 47pc;
+}
+.i5{
+    position: absolute;
+    left: 0pc;
+}
+.devil{
+    position: absolute;
+    left: 64pc;
+}
+.d5{
+    width: 2pc;
+    border-radius: 12px;
+}
+.lorem5{
+    position: absolute;
+    top: 8pc;
+    left: 46pc;
+}
+.para5{
+    position: absolute;
+    position: absolute;
+    top: 14pc;
+    left: 43pc;
+}
+.six{
+    width: 83pc;
+    height: 32pc;
+    border: dotted #c9aeae;
+    position: absolute;
+    top: 1343px;
+    text-align: center;
+    border-top-left-radius: 17pc;
+    border-bottom-left-radius: 15pc;
+}
+.d6{
+    border-radius: 9px;
+    position: absolute;
+    left: 8pc;
+}
+.dd6{
+    width: 2pc;
+    border-radius: 11px;
+}
+.lorem6{
+    position: absolute;
+    top: 8pc;
+    left: 20pc;
+}
+.para6{
+    position: absolute;
+    top: 13pc;
+    left: 16pc;
+}
+.vr{
+    position: absolute;
+    left: 25pc;
+    top: -2pc;
+}
+.seven{
+    width: 83pc;
+    height: 21pc;
+    /*border: dotted #c9aeae;*/
+    position: absolute;
+    top: 154pc;
+  display: flex;
+  justify-content: space-around;
+}
+.s1{
+    border: 1px solid red;
+    width: 20pc;
+    text-align: center;
+    border-radius: 11px;
+    height: 19pc;
+    background-color: red;
+}
+.s2{
+    border: 1px solid blue;
+    width: 20pc;
+    text-align: center;
+    border-radius: 11px;
+    height: 19pc;
+    background-color: lightblue;
+}
+.btn7{
+    margin-left: 8px;
+    margin-top: -12px;
+}
+.btnn7{
+    margin-top: 17px;
+    margin-left: 1pc;
+}
+.eight{
+    width: 83pc;
+    height: 16pc;
+    border: dotted #c9aeae;
+    position: absolute;
+    top: 175pc;
+}
+.top{
+    margin-left: 33pc;
+}
+.company{
+    justify-content: space-between;
+    display: flex;
+}
+.nine{
+    text-align: center;
+    /*border: 1px solid blue;*/
+    height: 13pc;
+    background-color:  #E8F4FA;
+    border-radius: 30px;
+}
+.footer{
+    text-align: center;
+    /*border: 1px solid blue;*/
+    height: 13pc;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.copy{
+    text-align: center;
+    background-color: silver;
+    height: 3pc;
+    padding-top: 1px;
+}
+.star{
+    position: absolute;
+    top: 13pc;
+}
+.font{
+    margin-top: 48px;
+}
+
